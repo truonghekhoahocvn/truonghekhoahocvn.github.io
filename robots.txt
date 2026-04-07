@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://truonghekhoahocvn.github.io//sitemap.xml
+Sitemap: https://truonghekhoahocvn.github.io/sitemap.xml
